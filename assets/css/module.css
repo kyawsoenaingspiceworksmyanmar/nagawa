@@ -1,0 +1,19 @@
+@charset "utf-8";
+/*For PC*/
+.eng_ttl{
+	font-family: 'Abril Fatface', cursive;
+}
+
+/*end of PC*/
+
+/*For Tablet*/
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+
+}
+/*end of Tablet*/
+
+/*For SP*/
+@media only screen and (max-width: 767px) {
+
+}
+/*end of SP*/
